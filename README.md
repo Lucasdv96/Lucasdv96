@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Lucas Del Valle  
-### Estudiante de IT | Desarrollo Web | Bases de Datos  
+### Estudiante de IT | Desarrollo de Software | Bases de Datos  | Desarrollo Web 
 
 📍 **Ubicación:** Pinamar, Buenos Aires  
 🎓 **Estudiante de Gestión de la Tecnología de la Información en UADE**  
