@@ -10,7 +10,7 @@
 - Redes Informáticas (CCNA 1)  
 
 🔗 **Mi GitHub:** Aquí encontrarás mis trabajos prácticos y proyectos de aprendizaje.  
-📧 **Contacto:** lucas.delvalle1996@gmail.com  
+📧 **Contacto:** lucas.delvalle1996@gmail.com  o mi linkedin: https://www.linkedin.com/in/lucas-del-valle-740277163/
 
 
 <!---
