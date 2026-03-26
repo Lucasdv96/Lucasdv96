@@ -5,9 +5,9 @@
 🎓 **Estudiante de Gestión de la Tecnología de la Información en UADE**  
 💻 **Habilidades:**  
 - HTML, CSS, JavaScript  
-- Java, Python (básico)
+- Java
 - Node.js, React
-- SQL Server, MySQL, MongoDB  
+- SQL Server, MySQL, MongoDB, PostgresSQL
 - Redes Informáticas (CCNA 1)  
 
 🔗 **Mi GitHub:** Aquí encontrarás mis trabajos prácticos y proyectos de aprendizaje.  
