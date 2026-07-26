@@ -14,7 +14,7 @@ Estudiante avanzado de Licensiatura de gestion de la Tecnologia de la Informaci�
 
 ### 🧭 Sobre mí
 
-Estoy en 3° año de la Licenciatura en Gestión de la Tecnología de la Información en **UADE**, cursando materias de Algoritmos y Estructuras de Datos II, Bases de Datos y Sistemas de Información. Vengo de 6 años de experiencia como representante de ventas de campo (preventista) para distribuidoras de bebidas, lo que me dio manejo de clientes, resolución de problemas bajo presión y comunicación — habilidades que hoy aplico en cómo encaro proyectos y trabajo en equipo.
+Estoy en 3° año de la Licenciatura en Gestión de la Tecnología de la Información en **UADE**. Vengo de 6 años de experiencia como representante de ventas de campo (preventista) para distribuidoras de bebidas, lo que me dio manejo de clientes, resolución de problemas bajo presión y comunicación — habilidades que hoy aplico en cómo encaro proyectos y trabajo en equipo.
 
 Aprendo construyendo: cada proyecto de esta lista resuelve un problema real, no es solo un ejercicio de curso.
 
