@@ -7,7 +7,7 @@ Estudiante avanzado de Licensiatura de gestion de la Tecnologia de la Informaci√
 <p align="center">
 <a href="https://www.linkedin.com/in/lucas-del-valle-740277163/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="mailto:lucas.delvalle1996@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-<img src="https://img.shields.io/badge/_Buenos_Aires-informational">
+<img src="https://img.shields.io/badge/_Buenos_Aires,_Argentina-informational">
 </p>
 
 ---
