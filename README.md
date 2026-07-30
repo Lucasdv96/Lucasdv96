@@ -16,25 +16,22 @@ Estudiante avanzado de Licensiatura de gestion de la Tecnologia de la Informaci�
 
 Estoy en 3° año de la Licenciatura en Gestión de la Tecnología de la Información en **UADE**. Vengo de 6 años de experiencia como representante de ventas de campo (preventista) para distribuidoras de bebidas, lo que me dio manejo de clientes, resolución de problemas bajo presión y comunicación — habilidades que hoy aplico en cómo encaro proyectos y trabajo en equipo.
 
-Aprendo construyendo: cada proyecto de esta lista resuelve un problema real, no es solo un ejercicio de curso.
 
 ---
 
 ### 🚀 Proyectos destacados
 
-**🏄 [OlaCheck](https://github.com/Lucasdv96/OlaCheck)** — App Android nativa para consultar condiciones de playa en tiempo real en la Costa Atlántica.
+**🏄 [OlaCheck](https://github.com/Lucasdv96/OlaCheck)** — OlaCheck — App Android nativa que combina estado del clima y condiciones marítimas en tiempo real con un asistente de IA para consultas sobre surf, más una sección de comunidad tipo foro (con soporte de imágenes vía Cloudinary) donde los usuarios comparten reportes y experiencias.
 `Kotlin` · `Jetpack Compose` · `MVVM + Clean Architecture` · `Firebase` · `Room` · `Hilt` · `Gemini AI`
 
-**💳 [CreaPresupuestoPDF](https://github.com/Lucasdv96/CreaPresupuestoPDF)** — App freelance para un cliente real (MB Cerramientos) que genera presupuestos en PDF.
+**💳 [CreaPresupuestoPDF](https://github.com/Lucasdv96/CreaPresupuestoPDF)** — App Android creada y vendidad E2E para dos clientes(MB Cerramientos, La casa del Soldador) que genera presupuestos en PDF segun el tipo de negocio(Carpinteria de aluminio, Herreria).
 `Kotlin` · `Jetpack Compose` · `iText 8` · `Room`
 
 **⚙️ [Mini-Backend](https://github.com/Lucasdv96)** — API REST con gestión de equipos, tableros Kanban, autenticación JWT e historial de tareas.
 `Node.js` · `TypeScript` · `Express` · `TypeORM` · `SQLite`
 
-**🌐 [Portfolio personal](https://lucasdv-developer.vercel.app)** — Sitio construido desde cero con dark mode y diseño propio.
+**🌐 [Portfolio personal](https://lucasdv-developer.vercel.app)** — Sitio construido desde cero con diseño propio, y creado para utilizar de portfolio web.
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
-
-> 📌 *Tip: agregá 1-2 capturas o un GIF corto de OlaCheck funcionando — para un recruiter, ver la app es mucho más convincente que leer el stack.*
 
 ---
 
